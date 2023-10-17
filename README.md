@@ -17,11 +17,11 @@
   - Stretch breaks
 
 ## 📱 Best ways to communicate with me
-- ✔️ MS Teams: evan.ezewski@hearst.com
-- ✔️ Slack @evanezewski
-- ✔️ JIRA/Confluence @evanezewski
-- ⭕ Email: evan.ezewski@kubra.com (I only check 2-3 times per day)
-- ❌ Phone: 905.642.2220 x 317 (Working remotely, so don't bother)
+- ✔️ MS Teams
+- ✔️ Slack
+- ✔️ JIRA/Confluence
+- ⭕ Email (I only check 2-3 times per day)
+- ❌ Phone (Don't bother)
 - ❌ If you don't include an agenda and a goal on a meeting invite, I will probably decline it
 - 💬 If I am busy, I will at least respond with you when I will be free
 
