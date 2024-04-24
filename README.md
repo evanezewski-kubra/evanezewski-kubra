@@ -8,24 +8,25 @@
 - 🔭 I tend to try to create awareness of what is on the horizon
 
 ## Times / hours I like to work
-- 🕛 8AM-4PM Eastern Time
+- 🕛 10AM-6PM Eastern Time
   - I live in Mississauga, Ontario and we observe DST
-  - I often work outside of this time during summer hours to bail early on Friday
+  - I often work outside of this time during summer hours so that I can bail early on Friday
 - 🗓️ I block off time in my calendar for:
   - Focusing on tasks
   - Lunch
   - Stretch breaks
+  - Volunteer work
 
 ## 📱 Best ways to communicate with me
 - ✔️ MS Teams
 - ✔️ Slack
 - ✔️ JIRA/Confluence
 - ⭕ Email (I only check 2-3 times per day)
-- ❌ Phone (Don't bother)
+- ❌ Phone (Don't bother, I use a super strict Google screening approach)
 - ❌ If you don't include an agenda and a goal on a meeting invite, I will probably decline it
-- 💬 If I am busy, I will at least respond with you when I will be free
+- 💬 If I am busy, I will at least respond to you when I am free
 
-## How I best recieve feedback
+## How I best receive feedback
 - 😀 I prefer face-to-face feedback (video calls are a close second)
 - 👷‍♂️ Please be direct, I have thick skin, but also please be constructive
 - 🌱 I see all feedback as an opportunity for growth
@@ -33,7 +34,7 @@
 
 ## Things I need
 - 🔍Clarity before I commit to anything
-- ✈️ A high level understanding of where my work fits into the bigger picture
+- ✈️ A high-level understanding of where my work fits into the bigger picture
 
 
 ## How I learn best
